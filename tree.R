@@ -64,3 +64,7 @@ newtree %>% as_tibble()
 )
 # save plot
 ggsave("result/phylogeny_plot.png",plot=p,dpi=300)
+
+
+#1
+
